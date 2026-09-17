@@ -1,0 +1,10 @@
+int main() {
+int n;
+scanf("%d", &n);
+if (n % 2 == 0)
+ printf(" It is Divisible by 2");
+ 
+else
+printf("It is Not Divisible by 2");
+
+}
